@@ -23,6 +23,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: 'https://mycountrymobile.com/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/Simplifying Phone Communications.png
       altText: Unblock your team boost your time to production preview

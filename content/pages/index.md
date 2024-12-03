@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '/https://www.mycountrymobile.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right

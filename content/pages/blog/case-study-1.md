@@ -1,5 +1,5 @@
 ---
-title: Key Values
+title: Trust
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-

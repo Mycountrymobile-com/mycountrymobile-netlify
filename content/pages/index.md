@@ -214,16 +214,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: This is a badge
       color: text-primary

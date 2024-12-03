@@ -14,15 +14,6 @@ sections:
       forward.
 
     actions:
-      - label: Get started
-        altText: ''
-        url: 'https://www.mycountrymobile.com/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Link
         label: See Tutorials
         altText: ''

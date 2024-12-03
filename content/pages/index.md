@@ -282,6 +282,10 @@ sections:
       type: TitleBlock
       text: Key Values
       color: text-dark
+    subtitle: >-
+      Trust: The cornerstone of every successful relationship.Innovation: The
+      driving force behind transformation in every sector.Partnership: Uniting
+      diverse strengths to achieve shared goals.
   - title: Divider
     colors: bg-light-fg-dark
     styles:

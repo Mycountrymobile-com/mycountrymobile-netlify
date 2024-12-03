@@ -43,7 +43,7 @@
         "links": [
             {
                 "label": "About Us",
-                "altText": "careers page",
+                "altText": "About Us",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",

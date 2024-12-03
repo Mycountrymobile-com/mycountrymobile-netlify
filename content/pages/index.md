@@ -283,9 +283,9 @@ sections:
       text: Key Values
       color: text-dark
     subtitle: >-
-      Trust: The cornerstone of every successful relationship.Innovation: The
-      driving force behind transformation in every sector.Partnership: Uniting
-      diverse strengths to achieve shared goals.
+      The cornerstone of every successful relationship.The driving force behind
+      transformation in every sector.Uniting diverse strengths to achieve shared
+      goals.
   - title: Divider
     colors: bg-light-fg-dark
     styles:

@@ -14,15 +14,15 @@ sections:
       forward.
 
     actions:
-      - label: Get started
+      - type: Link
+        label: Get Started
         altText: ''
-        url: 'https://www.mycountrymobile.com/'
+        url: 'https://mycountrymobile.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
-        type: Button
     media:
       url: /images/Simplifying Phone Communications.png
       altText: Unblock your team boost your time to production preview

@@ -269,7 +269,7 @@ sections:
     showThumbnail: true
     showDate: true
     showAuthor: true
-    variant: three-col-grid
+    variant: big-list
     colors: bg-light-fg-dark
     styles:
       self:

@@ -131,10 +131,10 @@ sections:
       - type: FeaturedItem
         title: Wholesale VoIP Services
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Supporting companies with high-volume calling needs, from call centers
+          to telecom resellers, with quality and cost-efficiency.
+
         image:
           type: ImageBlock
           url: /images/icon1.svg

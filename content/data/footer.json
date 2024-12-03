@@ -106,7 +106,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Powered By",
             "altText": "",
             "url": "/netlify.com",
             "showIcon": false,

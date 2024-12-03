@@ -108,10 +108,9 @@ sections:
         type: FeaturedItem
       - title: Communication Integration Services (CPaaS)
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Ideal for businesses seeking to build flexible, integrated messaging
+          and voice capabilities without technical complexity.
         image:
           url: /images/icon3.svg
           altText: Featured icon three

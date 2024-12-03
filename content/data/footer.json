@@ -82,7 +82,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "support@mycountrymobile.com",
             "icon": "mail",
             "type": "Social"
         }

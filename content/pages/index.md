@@ -15,7 +15,7 @@ sections:
 
     actions:
       - type: Link
-        label: Get Started
+        label: Visit
         altText: ''
         url: 'https://mycountrymobile.com/'
         showIcon: false

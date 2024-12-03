@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unlimited Connectivity Innovative Solutions
+      text: Empowering Your Global Communication Needs
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

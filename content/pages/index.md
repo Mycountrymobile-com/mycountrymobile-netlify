@@ -56,10 +56,10 @@ sections:
       - type: FeaturedItem
         title: Unified Communication as a Service (UCaaS)
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Elevate your customer service with a unified platform that streamlines
+          communication, automates processes, and provides actionable insights.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

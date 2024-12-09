@@ -333,8 +333,10 @@ sections:
         textAlign: center
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: My COuntry Mobile
+  metaDescription: >-
+    Revolutionizing telecom with AI solutions to boost engagement and streamline
+    operations.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

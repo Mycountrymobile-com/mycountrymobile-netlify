@@ -333,7 +333,7 @@ sections:
         textAlign: center
     type: GenericSection
 seo:
-  metaTitle: My COuntry Mobile
+  metaTitle: My Country Mobile
   metaDescription: >-
     Revolutionizing telecom with AI solutions to boost engagement and streamline
     operations.

@@ -334,7 +334,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: My COuntry Mobile
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'My country mobile '
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

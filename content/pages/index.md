@@ -334,7 +334,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: My COuntry Mobile
-  metaDescription: 'My country mobile '
+  metaDescription: >-
+    Revolutionizing telecom with AI solutions to boost engagement and streamline
+    operations.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
